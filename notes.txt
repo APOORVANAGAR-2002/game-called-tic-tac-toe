@@ -1,0 +1,2 @@
+useState kya kar raha hai hame state provide krr raha h jise ham update krte raha skte hai as we want
+par hamne ye cheez nhi seekhi ki agar koi state ko persist karana ho ek lambe time ke liye, usko dusre component ko pass 
